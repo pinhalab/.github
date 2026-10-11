@@ -5,6 +5,6 @@
   </tr>
   <tr>
     <td><a href="">TreeWrite</a></td>
-    <td>Bla bla bla</td>
+    <td>The simplest and most beautiful outliner out there</td>
   </tr>
 </table>
